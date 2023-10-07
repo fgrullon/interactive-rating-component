@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/fgrullon/interactive-rating-component)
-- Live Site URL: [Add live site URL here](https://interactive-rating-component-942bd2.netlify.app/)
+- Live Site URL: [Add live site URL here]([https://interactive-rating-component-942bd2.netlify.app/](https://main--interactive-rating-component-942bd2.netlify.app/))
 
 ## My process
 

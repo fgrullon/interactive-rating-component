@@ -33,7 +33,7 @@ function Rating() {
             key={rate}
             type="button"
             className={styles.ratingBtn}
-            onClick={(e) => handleRatingClick(rate)}
+            onClick={() => handleRatingClick(rate)}
           >
             {rate}
           </button>

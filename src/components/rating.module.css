@@ -1,0 +1,89 @@
+body {
+  background-color: black;
+}
+
+.mainPanel {
+  width: 300px;
+  height: 300px;
+  background-color: #222832;
+  text-align: left;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.thankYouPanel {
+  width: 300px;
+  height: 300px;
+  background-color: #222832;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.start {
+  background: #272e38;
+  border-radius: 100%;
+  padding: 10px;
+}
+
+.title {
+  color: white;
+  font-size: 16px;
+}
+.description {
+  color: #8a909b;
+  font-size: 12px;
+}
+
+.btnGroup {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.ratingBtn {
+  background-color: #272e38;
+  color: #757c87;
+  width: 50px;
+  height: 50px;
+  border-radius: 100%;
+}
+
+.ratingBtn:hover {
+  background-color: #7d8798;
+  color: white;
+}
+
+.ratingBtn:focus {
+  background-color: #fc7613;
+  color: white;
+}
+
+.submitBtn {
+  background-color: #fc7613;
+  color: white;
+  margin-top: 30px;
+  width: 100%;
+  border-radius: 50px;
+}
+
+.submitBtn:focus {
+  background-color: white;
+  color: #fc7613;
+}
+
+.ratingScore {
+  background: #282e38;
+  color: #fc7613;
+  border-radius: 30px;
+  padding: 5px 10px;
+  font-size: 12px;
+}
+
+.thankYouLogo {
+  height: 100px;
+  width: 130px;
+}
